@@ -39,3 +39,8 @@ my-internship-project/
 ├── app.js
 ├── package.json
 └── README.md</p>
+
+## Connect with Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-vashistha-28639330a/) to follow my journey and for any collaboration opportunities.
+
+
