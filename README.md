@@ -31,11 +31,11 @@ This project demonstrates a basic server-side rendering with Node.js and Express
 ## Folder Structure
 
 my-internship-project/
-├── views/
+<p>├── views/
 │ ├── index.ejs
 │ └── result.ejs
 ├── public/
 │ └── style.css
 ├── app.js
 ├── package.json
-└── README.md
+└── README.md</p>
