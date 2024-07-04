@@ -1,46 +1,5 @@
-# My Internship Project
+# Cognifyz Internship Projects
 
-## Introduction
-This project demonstrates a basic server-side rendering with Node.js and Express. The application includes a simple form submission that is handled on the server-side and dynamically generates HTML using EJS.
+This repository contains the projects developed during my internship at Cognifyz Technologies. The projects are organized into three levels, each containing two tasks. Each task has its own folder with the complete implementation and a README file.
 
-## Features
-- HTML form for user input
-- Node.js server using Express
-- Server-side rendering with EJS
-- Basic CSS styling
-
-## How to Run
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/my-internship-project.git
-    cd my-internship-project
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Start the server:
-    ```bash
-    node app.js
-    ```
-
-4. Open your browser and navigate to `http://localhost:3000`
-
-## Folder Structure
-
-my-internship-project/
-<p>├── views/
-│ ├── index.ejs
-│ └── result.ejs
-├── public/
-│ └── style.css
-├── app.js
-├── package.json
-└── README.md</p>
-
-## Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-vashistha-28639330a/) to follow my journey and for any collaboration opportunities.
-
-
+## Project Structure
