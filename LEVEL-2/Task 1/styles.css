@@ -1,0 +1,65 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    position: relative;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    animation: parallaxScroll 3s linear infinite;
+}
+
+#parallax1 {
+    background-image: url('beautiful_summer_travel-wallpaper-1920x1080.jpg');
+}
+
+#parallax2 {
+    background-image: url('amazing_sunset_3-wallpaper-1920x1080.jpg');
+}
+
+.container {
+    padding: 20px;
+}
+
+.gallery .img-fluid {
+    transition: transform 0.3s;
+}
+
+.gallery .img-fluid:hover {
+    transform: scale(1.05);
+}
+
+@keyframes parallaxScroll {
+    0% {
+        background-position: center 0;
+    }
+    100% {
+        background-position: center 100%;
+    }
+}
+
+footer {
+    background: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
