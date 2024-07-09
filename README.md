@@ -10,7 +10,7 @@ This repository contains the projects developed during my internship at Cognifyz
   - Task 2: Inline Styles, Basic Interaction, and Server-Side Validation
 
 - **Level 2**
-  - Task 3: (Description)
+  - Task 3: Advanced CSS Styling and Responsive Design
   - Task 4: (Description)
 
 - **Level 3**
